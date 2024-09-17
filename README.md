@@ -109,7 +109,7 @@
 <br/>
 <p align="center">
   <a href="https://XDOTDEX.github.io/dexter.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=XDOTDEX%20&theme=radical&exclude_days=Fri&card_width=600" alt="Md Akij Islam"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=xdotdex%20&theme=radical&exclude_days=Fri&card_width=600" alt=""/>
   </a>
 </p>
 <p align="center">
