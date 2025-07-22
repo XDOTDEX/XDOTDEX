@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
  <a href="https://img.shields.io/twitter/follow/dexterlovemumu?label=Twitter&logo=twitter&style=for-the-badge&color=blue"></a>
-  <a href="https://t.me/xdotdexter" target="_blank">
+  <a href="https://drive.google.com/file/d/1ChOUsm2Y7mh_5e95IS5TLw9Z6thfB3FP/view?usp=drivesdk" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
  </a>
  <a href="https://twitter.com/xdotdexter" target="_blank">
