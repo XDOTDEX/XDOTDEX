@@ -42,7 +42,7 @@
   <a href="https://drive.google.com/file/d/1ChOUsm2Y7mh_5e95IS5TLw9Z6thfB3FP/view?usp=drivesdk" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
  </a>
- <a href="https://twitter.com/xdotdexter" target="_blank">
+ <a href="[https://twitter.com/xdotdexter](https://drive.google.com/file/d/1BNqK6zvGNdwCuLsUjrS89Za7vfWIr5vp/view?usp=drivesdk)" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/callmedexter4.0" target="_blank">
